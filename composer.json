@@ -1,0 +1,14 @@
+{
+    "name": "papejajr/calendar-jquery_and_php",
+    "authors": [
+        {
+            "name": "Eduardo Marçal",
+            "email": "edumarcalnet@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"classmap": [
+    		"./"
+    	]
+    }
+}
